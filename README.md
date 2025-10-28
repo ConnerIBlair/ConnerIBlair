@@ -1,6 +1,9 @@
 ## Hi there 👋
-- I'm currently working on a Zelda-like game with my brother called [Cassonia](https://b-bgaming.com) 
-- I have created one game already poster on Steam called Mr. Mookie and the Runaway Cookie
+My name is Conner, and I'm currently going pursuing a BS in Computer Science to learn how to program more effectively and help others. 
+- I'm currently working on [Cassonia](https://b-bgaming.com) with my brother
+- I have created and published a [game](https://store.steampowered.com/app/2404060/Mr_Mookie_and_the_Runaway_Cookie/) on Steam with the B&B Gaming company
+- I'm currently looking for a 2026 Summer Software Engineering Internship
+  - Contact me at connerblair072006@gmail.com
 <!--
 **ConnerIBlair/ConnerIBlair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
