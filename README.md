@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I'm currently working on a Zelda-like game with my brother called Cassonia b-bgaming.com
+- I have created one game already poster on Steam called Mr. Mookie and the Runaway Cookie
 <!--
 **ConnerIBlair/ConnerIBlair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
